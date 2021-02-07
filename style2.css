@@ -1,0 +1,17 @@
+.red_font {
+  color: red;
+}
+.blue_font {
+  color: blue;
+}
+.orange_font {
+  color: orange;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.centered {
+  text-align: center;
+}
